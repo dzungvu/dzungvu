@@ -26,9 +26,15 @@
 
 <img align="left" alt="Java" width="26px" src="https://www.fluttericon.com/logo_dart_192px.svg" />
 
-<img align="left" alt="Java" width="26px" src="https://image.flaticon.com/icons/png/512/919/919833.png" />
+<img align="left" alt="Swift" width="26px" src="https://image.flaticon.com/icons/png/512/919/919833.png" />
 
-<img align="left" alt="Java" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
+<img align="left" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
+
+<img align="left" alt="MySql" width="26px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />
+
+<img align="left" alt="Github" width="26px" src="https://pngimg.com/uploads/github/github_PNG20.png" />
+
+<img align="left" alt="Sourcetree" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/313_Sourcetree_logo-512.png" />
 
 <br />
 <br />
