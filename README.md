@@ -3,7 +3,7 @@
 ## I'm a mobile developer!
 - 💻 I’m currently working at [FPT Telecom][website]!
 - ✍ I’m currently learning everything
-- 👯 I’m looking to collaborate with other app developers
+- 🏋 [My Hackerrank][hackerrank]
 - 🥅 2020 Goals: Learn as much as I can about mobile development and create more apps
 - ⚡ Fun fact: I love to photograph, play guitar and watching anime
 
@@ -47,3 +47,4 @@
 [linkedin]: https://www.linkedin.com/in/dzungvucs/
 [facebook]: https://www.facebook.com/thedungit.cs/
 [gmail]: mailto://dzungvucs@gmail.com
+[hackerrank]:https://www.hackerrank.com/thedung2709
