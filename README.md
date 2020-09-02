@@ -2,7 +2,7 @@
 
 ## I'm a mobile developer!
 - 💻 I’m currently working at [FPT Telecom][website]!
-- ✍ I’m currently learning everything
+- ✍ I’m currently learning everything, including Machine learning.
 - 🏋 [My Hackerrank][hackerrank]
 - 🥅 2020 Goals: Learn as much as I can about mobile development and create more apps
 - ⚡ Fun fact: I love to photograph, play guitar and watching anime
