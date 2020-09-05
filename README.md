@@ -1,4 +1,4 @@
-### Hello, welcome to my Github page, I'm Dzung Vu 👋👋👋
+### Hello, welcome to my Github page 👋👋👋
 
 ## I'm a mobile developer!
 - 💻 I’m currently working at [FPT Telecom][website]!
