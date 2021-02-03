@@ -20,7 +20,7 @@
 
 <img align="left" alt="Android Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/128px-Android_Studio_icon.svg.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/128px-Visual_Studio_Code_1.35_icon.svg.png" />
-<img align="left" alt="XCode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Xcode_Icon.png/300px-Xcode_Icon.png" />
+<img align="left" alt="XCode" width="26px" src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96.png" />
 <img align="left" alt="Kotlin" width="26px" src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" />
 <img align="left" alt="Java" width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/283px-Java_programming_language_logo.svg.png" />
 
