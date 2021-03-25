@@ -18,7 +18,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Android Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/128px-Android_Studio_icon.svg.png" />
+<img align="left" alt="Android Studio" width="26px" src="https://i.pinimg.com/originals/4e/74/7c/4e747c82368d9681b75d54f56319dae7.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/128px-Visual_Studio_Code_1.35_icon.svg.png" />
 <img align="left" alt="XCode" width="26px" src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96.png" />
 <img align="left" alt="Kotlin" width="26px" src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" />
