@@ -1,8 +1,8 @@
 ### Hello, welcome to my Github page 👋👋👋
 
-## I'm a mobile developer!
-- 💻 I’m currently working at [FPT Telecom][website]!
-- ✍ I’m currently learning everything, including Machine learning.
+## I'm a developer!
+- 💻 I’m currently working at [FPT Telecom][website]! as Mobile developer
+- ✍ I’m currently learning everything.
 - 🏋 [My Hackerrank][hackerrank]
 - 🥅 2020 Goals: Learn as much as I can about mobile development and create more apps
 - ⚡ Fun fact: I love to photograph, play guitar and watching anime
