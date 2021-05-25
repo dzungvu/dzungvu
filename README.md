@@ -11,7 +11,7 @@
 
 [<img align="left" alt="dzungvuProfile | LinkedIn" width="36px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />][linkedin]
 [<img align="left" alt="dzungvuProfile | Instagram" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" />][instagram]
-[<img align="left" alt="dzungvuProfile | Facebook" width="36px" src="https://img-premium.flaticon.com/png/512/1384/1384053.png?token=exp=1621337270~hmac=6f73cec17ca4f3518e8fc0ecc9cd9bdb" />][facebook]
+[<img align="left" alt="dzungvuProfile | Facebook" width="36px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/facebook_icon_130940.png" />][facebook]
 
 <br />
 
