@@ -5,7 +5,7 @@
 - ✍ I’m currently learning everything.
 - 🏋 [My Hackerrank][hackerrank]
 - My Blogs: [Medium](https://thdng-39982.medium.com/)
-- My Site: [Dzung-vu](https://dzung-vu.herokuapp.com/)
+- My Portfolio: [Dzung-vu](https://dzung-vu.herokuapp.com/)
 - 🥅 Goals: Learn as much as I can about mobile development and create more apps
 - ⚡ Fun fact: I love to photograph, play guitar and watching anime
 
