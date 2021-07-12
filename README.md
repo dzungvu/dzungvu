@@ -2,12 +2,10 @@
 
 ## I'm a developer!
 - 💻 I’m currently working at [FPT Telecom][website]! as Mobile developer
-- ✍ I’m currently learning everything.
+- 💼 My Portfolio: [Dzung-vu](https://dzung-vu.herokuapp.com/)
 - 🏋 [My Hackerrank][hackerrank]
-- My Blogs: [Medium](https://thdng-39982.medium.com/)
-- My Portfolio: [Dzung-vu](https://dzung-vu.herokuapp.com/)
-- 🥅 Goals: Learn as much as I can about mobile development and create more apps
-- ⚡ Fun fact: I love to photograph, play guitar and watching anime
+- 📔 My Blogs: [Medium](https://thdng-39982.medium.com/)
+- 🥅 Goals: Learn as much as I can about mobile development and Seeking for friendly working environment
 
 ### Connect with me:
 
