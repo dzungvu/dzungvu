@@ -1,6 +1,6 @@
 ## Hello and welcome to my Github page 👋👋👋
 
-#### I'm Dzung Vu - Mobile Developer
+#### I'm Dũng Vũ - Mobile Developer
 - 💻 I’m currently working at [FPT Telecom][website] as a Mobile Devloper
 - 💼 My Portfolio: [Dzung-vu](https://dzung-vu.herokuapp.com/)
 - 📔 My Blogs: [Medium](https://thdng-39982.medium.com/)
