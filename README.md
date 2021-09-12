@@ -3,7 +3,7 @@
 #### I'm Dũng Vũ - Mobile Developer
 - 💻 I’m currently working at [FPT Telecom][website] as a Mobile Devloper
 - 💼 My Portfolio: [Dzung-vu](https://dzung-vu.herokuapp.com/)
-- 📔 My Blogs: [Medium](https://thdng-39982.medium.com/)
+- 📔 My Blogs: [Medium](https://dzungvu.medium.com/)
 - 🏋 [My Hackerrank][hackerrank]
 - 🥅 Goals: Learn as much as I can about mobile development and Seeking for friendly working environment
 
