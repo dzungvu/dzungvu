@@ -44,6 +44,12 @@
 <br />
 <br />
 
+[![Dzungvu's GitHub stats](https://github-readme-stats.vercel.app/api?username=dzungvu&count_private=true&show_icons=true&theme=github_dark)](https://github.com/dzungvu?tab=repositories) 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzungvu&theme=github_dark&layout=compact)](https://github.com/dzungvu?tab=repositories)  -->
+
+<br />
+<br />
+
 ---
 
 [website]: https://fpt.vn/
@@ -53,3 +59,5 @@
 [facebook]: https://www.facebook.com/thedungit.cs/
 [gmail]: mailto://dzungvucs@gmail.com
 [hackerrank]:https://www.hackerrank.com/thedung2709
+
+<!-- More option for custom readme - visit https://github.com/anuraghazra/github-readme-stats -->
