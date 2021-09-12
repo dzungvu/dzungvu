@@ -43,16 +43,14 @@
 
 <br />
 <br />
+<br />
 
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzungvu&theme=github_dark&layout=compact)](https://github.com/dzungvu?tab=repositories)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzungvu&theme=github_dark&layout=compact)](https://github.com/dzungvu?tab=repositories) -->
 
 [![Dzungvu's GitHub stats](https://github-readme-stats.vercel.app/api?username=dzungvu&count_private=true&show_icons=true&theme=github_dark)](https://github.com/dzungvu?tab=repositories)
 
-<br />
-<br />
 
----
 
 [website]: https://fpt.vn/
 [youtube]: https://www.youtube.com/channel/UCMPcT_LClgMLIjtCzyjIu9g/videos?view_as=subscriber
