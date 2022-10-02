@@ -1,7 +1,7 @@
 ## Hello and welcome to my Github page 👋👋👋
 
 #### I'm Dũng Vũ - Mobile Developer
-- 💻 I’m currently working at [FPT Telecom][website] as a Mobile Devloper
+- 💻 I’m currently working at [FPT Play][website] as a Mobile Devloper
 - 💼 My Portfolio: [Dzung-vu](https://dzung-vu.herokuapp.com/)
 - 📔 My Blogs: [Medium](https://dzungvu.medium.com/)
 - 🏋 [My Hackerrank][hackerrank]
@@ -52,7 +52,7 @@
 
 
 
-[website]: https://fpt.vn/
+[website]: https://fptplay.vn/
 [youtube]: https://www.youtube.com/channel/UCMPcT_LClgMLIjtCzyjIu9g/videos?view_as=subscriber
 [instagram]: https://instagram.com/thedungit.cs
 [linkedin]: https://www.linkedin.com/in/dzungvucs/
