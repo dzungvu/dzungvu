@@ -1,11 +1,10 @@
-## Hello and welcome to my Github page 👋👋👋
+## Welcome to My Github 👋
 
 #### I'm Dũng Vũ - Mobile Developer
 - 💻 I’m currently working at [FPT Play][website] as Team lead of Andoird Mobile Team
 - 💼 My Portfolio: [Dzung-vu](https://dzungvu.github.io/)
 - 📔 My Blogs: [Medium](https://dzungvu.medium.com/)
-- 🏋 [My Hackerrank][hackerrank]
-- 🥅 Goals: Learn as much as I can about mobile development and Seeking for friendly working environment
+- 🏋 My Practice Coding: [Hackerrank][hackerrank]
 
 ### Connect with me:
 
