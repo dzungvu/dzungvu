@@ -41,7 +41,7 @@
 
 [![Dzungvu's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=dzungvu&count_private=true&show_icons=true&theme=github_dark)](https://github.com/dzungvu?tab=repositories)
 <br />
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=dzungvu)
+<!-- ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=dzungvu) -->
 
 
 [website]: https://fptplay.vn/
